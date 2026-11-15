@@ -4,7 +4,7 @@ Este projeto contém a estrutura completa de uma aplicação React integrada com
 
 ---
 
-## 🛠️ Tecnologias e Siglas Explicadas Passo a Passo
+## Tecnologias e Siglas Explicadas Passo a Passo
 
 * **CI (Continuous Integration / Integração Contínua):** Prática de automação onde alterações de código são testadas e validadas automaticamente a cada commit ou pull request [cite: 1].
 * **CD (Continuous Deployment / Implantação Contínua):** Automação do envio do código aprovado para os ambientes de produção ou homologação sem intervenção manual [cite: 1].
@@ -17,7 +17,7 @@ Este projeto contém a estrutura completa de uma aplicação React integrada com
 
 ---
 
-## 🔒 Gerenciamento Seguro de Chaves de Acesso
+## Gerenciamento Seguro de Chaves de Acesso
 
 **Nunca insira chaves privadas (tokens, APIs, credenciais) no código-fonte [cite: 1].**
 
@@ -32,7 +32,7 @@ Este projeto contém a estrutura completa de uma aplicação React integrada com
 
 ---
 
-## 🔑 Como Fazer Login e Versionar via GitHub CLI
+## Como Fazer Login e Versionar via GitHub CLI
 
 ### 1. Autenticação e Login
 ```bash
@@ -67,7 +67,7 @@ git push -u origin develop
 
 ---
 
-## 🧪 Matriz e Plano de Testes do Projeto
+## Matriz e Plano de Testes do Projeto
 
 A suíte de testes foi desenhada com base nos quadrantes de testes do software [cite: 1]:
 
@@ -85,7 +85,7 @@ A suíte de testes foi desenhada com base nos quadrantes de testes do software [
 
 ---
 
-## 🚀 Como Executar Localmente
+## Como Executar Localmente
 
 ```bash
 # Instalar dependências
